@@ -1,14 +1,6 @@
 (function ($) {
 
-<<<<<<< Updated upstream
-    /* Ajax */
-=======
-<<<<<<< Updated upstream
-    /* Ajax toto je master */
-=======
-    /* Ajax toto je development */
->>>>>>> Stashed changes
->>>>>>> Stashed changes
+    /* Ajax  */
 
     if (current !== undefined) {  // podmienka, pre všetky ajax volania: ak prichádzame zo stránok, ktoré nemajú definovaný .selected (story.html/search.html...) nespustí sa ajax iba href atribút a linku
 
